@@ -1,1 +1,2 @@
 Hola, que tal
+Segunda linea para archivos de mensajes
